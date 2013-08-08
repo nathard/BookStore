@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!-- structure modelled on http://www.w3schools.com/dom/books.xml -->
+<!-- Books, images and descriptions courtesy of http://www.simonandschuster.com/ -->
+
+<bookstore>
+	<category name="Architecture">
+		<book id="1">
+			<cover>bookimages/archthumb1.jpg</cover>
+			<title>Makeshift Metropolis</title>
+			<publisher>Scribner</publisher>
+			<isbn>1416561250</isbn>
+			<author>Witold Rybczynski</author>
+			<year>2010</year>
+			<price>24.00</price>
+			<desc>In this new work, prizewinning author, professor, and Slate architecture critic Witold Rybczynski returns to the territory he knows best: writing about the way people live, just as he did in the acclaimed bestsellers Home and A Clearing in the Distance. In Makeshift Metropolis, Rybczynski has drawn upon a lifetime of observing cities to craft a concise and insightful book that is at once an intellectual history and a masterful critique.</desc>
+			
+		</book>
+	</category>
+	<category name="Business">
+		<book id="2">
+			<cover>bookimages/busthumb1.jpg</cover>
+			<title>Take the Lead</title>
+			<author>Betsy Myers</author>
+			<publisher>Atria Books</publisher>
+			<isbn>1439160678</isbn>
+			<year>2011</year>
+			<price>25.00</price>
+			<desc>You are a leader. You do not need to be in a boardroom, on a battlefield, or on a ballot to have a profound impact on everyone around you. In this life-changing book, Betsy Myers—senior adviser to two US presidents and former executive director of Harvard's Center for Public Leadership—demonstrates how each of us has opportunities to take the lead every day and shares seven core principles that will enable us to be more productive, engaged, and successful.</desc>
+		</book>
+		<book id="3">
+			<cover>bookimages/busthumb2.jpg</cover>
+			<title>Experiential Marketing</title>
+			<author>Bernd H. Schmitt</author>
+			<publisher>Free Press</publisher>
+			<isbn>1451636369</isbn>
+			<year>2011</year>
+			<price>19.95</price>
+			<desc>Moving beyond traditional "features-and-benefits" marketing, Schmitt presents a revolutionary approach to marketing for the branding and information age. Schmitt shows how managers can create holistic experiences for their customers through brands that provide sensory, affective, and creative associations as well as lifestyle marketing and social identity campaigns.</desc>
+		</book>
+	</category>
+	<category name="Computers">
+		<book id="4">
+			<cover>bookimages/compthumb1.jpg</cover>
+			<title>The Geek Handbook</title>
+			<author>Mikki Halpin</author>
+			<publisher>Pocket</publisher>
+			<isbn>1451636369</isbn>
+			<year>1997</year>
+			<price>39.95</price>
+			<desc>Whether you're friends with a geek, work with one, love one, or hate one, The Geek Handbook provides handy instructions for analyzing and understanding all things geek.</desc>
+		</book>
+		<book id="5">
+			<cover>bookimages/compthumb2.jpg</cover>
+			<title>Digital Biology</title>
+			<author>Peter J. Bentley</author>			
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>1416577149</isbn>
+			<year>2007</year>
+			<price>18.95</price>
+			<desc>This is a visionary book, written in accessible, nontechnical language, that explains how cutting-edge computer science will shape our world in the coming decades.</desc>
+		</book>
+	</category>
+	<category name="Education">
+		<book id="6">
+			<cover>bookimages/eduthumb1.jpg</cover>
+			<title>Class Warfare</title>
+			<author>Steven Brill</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>1451611994</isbn>
+			<year>2011</year>
+			<price>28.95</price>
+			<desc>In a reporting tour de force, award-winning journalist Steven Brill takes an uncompromising look at the adults who are fighting over America's failure to educate its children—and points the way to reversing that failure.</desc>
+		</book>
+		<book id="7">
+			<cover>bookimages/eduthumb2.jpg</cover>
+			<title>A Class Apart</title>
+			<author>Alec Klein</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>0743299450</isbn>
+			<year>2008</year>
+			<price>16.00</price>
+			<desc>This is the story of the American dream, a New York City school that inspires immigrants to come to these shores so that their children can attend Stuyvesant in the first step to a better life. It's also the controversial story of elitism in education.</desc>
+		</book>
+	</category>
+	<category name="Games">
+		<book id="8">
+			<cover>bookimages/gamthumb1.jpg</cover>
+			<title>Radical Blackjack</title>
+			<author>Arnold Snyder</author>
+			<publisher>Cardoza</publisher>
+			<isbn>1580422969</isbn>
+			<year>2011</year>
+			<price>16.99</price>
+			<desc>Arnold Snyder's Radical Blackjack reveals, for the first time to the general public, the guarded insider secrets used by professional blackjack players to win in today's game.</desc>
+		</book>
+	</category>
+	<category name="History">
+		<book id="9">
+			<cover>bookimages/histhumb1.jpg</cover>
+			<title>Hitlerland</title>
+			<author>Andrew Nagorski</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>143919100X</isbn>
+			<year>2012</year>
+			<price>28.00</price>
+			<desc>American Eyewitnesses to the Nazi Rise to Power</desc>
+		</book>
+		<book id="10">
+			<cover>bookimages/histhumb2.jpg</cover>
+			<title>American Emperor</title>
+			<author>David O. Stewart</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>1439157189</isbn>
+			<year>2011</year>
+			<price>30.00</price>
+			<desc>Aaron Burr's Challenge to Jefferson's America</desc>
+		</book>
+	</category>
+	<category name="Law">
+		<book id="11">
+			<cover>bookimages/lawthumb1.jpg</cover>
+			<title>Raised by the Courts</title>
+			<author>Irene Sullivan</author>
+			<publisher>Kaplan Publishing</publisher>
+			<isbn>160714638X</isbn>
+			<year>2010</year>
+			<price>25.00</price>
+			<desc>Drawing on years of work with thousands of children, Judge Sullivan presents a plan for breaking the vicious cycle of child abuse and crime that causes such tragedies.</desc>
+		</book>
+		<book id="12">
+			<cover>bookimages/lawthumb2.jpg</cover>
+			<title>Ultimate Sanction</title>
+			<author>Robert Bohm</author>
+			<publisher>Kaplan Publishing</publisher>
+			<isbn>1607140586</isbn>
+			<year>2010</year>
+			<price>24.95</price>
+			<desc>A unique approach to one of the most divisive and galvanizing subjects of our time: capital punishment.</desc>
+		</book>
+	</category>
+	<category name="Mathematics">
+		<book id="13">
+			<cover>bookimages/maththumb1.jpg</cover>
+			<title>Calculated Risks</title>
+			<author>Gerd Gigerenzer</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>0743254236</isbn>
+			<year>2003</year>
+			<price>21.95</price>
+			<desc>This eye-opening book explains how we can overcome our ignorance of numbers and better understand the risks we may be taking with our money, our health, and our lives.</desc>
+		</book>
+		<book id="14">
+			<cover>bookimages/maththumb2.jpg</cover>
+			<title>Euclid's Window</title>
+			<author>Leonard Mlodinow</author>
+			<publisher>Free Press</publisher>
+			<isbn>0684865246</isbn>
+			<year>2002</year>
+			<price>15.00</price>
+			<desc>Through Euclid's Window Leonard Mlodinow brilliantly and delightfully leads us on a journey through five revolutions in geometry, from the Greek concept of parallel lines to the latest notions of hyperspace.</desc>
+		</book>
+	</category>
+	<category name="Nature">
+		<book id="15">
+			<cover>bookimages/natthumb1.jpg</cover>
+			<title>Oink</title>
+			<author>Matt Whyman</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>145161828X</isbn>
+			<year>2011</year>
+			<price>25.00</price>
+			<desc>An unforgettable, slapstick story of what happens when two tiny porkers move in on family life.</desc>
+		</book>
+		<book id="16">
+			<cover>bookimages/natthumb2.jpg</cover>
+			<title>Birdsong</title>
+			<author>Don Stap</author>
+			<publisher>Scribner</publisher>
+			<isbn>1451612974</isbn>
+			<year>2010</year>
+			<price>17.95</price>
+			<desc>In a modern, noisy world, it is increasingly difficult to hear those voices of the gods. Exploring birdsong takes us to that rare place -- in danger of disappearing forever -- where one hears only the planet's oldest music.</desc>
+		</book>
+	</category>
+	<category name="Philosophy">
+		<book id="17">
+			<cover>bookimages/phithumb1.jpg</cover>
+			<title>Dialogues of Plato</title>
+			<author>Plato</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>1439169489</isbn>
+			<year>2011</year>
+			<price>9.95</price>
+			<desc>In these influential dialogues—Euthyphro, Apology, Crito, Meno, Phaedo, Symposium—Plato employs the dialectic method to examine the trial and death of his mentor, Socrates, and address the eternal questions of human existence.</desc>
+		</book>
+		<book id="18">
+			<cover>bookimages/phithumb2.jpg</cover>
+			<title>Libertarianism</title>
+			<author>David Boaz</author>
+			<publisher>Free Press</publisher>
+			<isbn>068484768X</isbn>
+			<year>1998</year>
+			<price>21.95</price>
+			<desc>David Boaz presents the essential guidebook to the libertarian perspective, detailing its roots, central tenets, solutions to contemporary policy dilemmas, and future in American politics.</desc>
+		</book>
+	</category>
+	<category name="Sport">
+		<book id="19">
+			<cover>bookimages/spothumb1.jpg</cover>
+			<title>The Reunion</title>
+			<author>Daniel Joseph</author>
+			<publisher>WWE</publisher>
+			<isbn>1451651031</isbn>
+			<year>2011</year>
+			<price>7.95</price>
+			<desc>A novel based on the motion picture screenplay.</desc>
+		</book>
+		<book id="20">
+			<cover>bookimages/spothumb2.jpg</cover>
+			<title>InSideOut Coaching</title>
+			<author>Joe Ehrmann</author>
+			<publisher>Simon &amp; Schuster</publisher>
+			<isbn>1439182981</isbn>
+			<year>2011</year>
+			<price>24.95</price>
+			<desc>Joe Ehrmann, the coach profiled in the national bestseller Season of Life, explains how coaches at every level, from Little League to high school to NCAA Division I and even the professional leagues, can use sports to transform lives.</desc>
+		</book>
+	</category>
+</bookstore>
+

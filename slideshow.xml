@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+structure modelled on 
+http://www.republicofcode.com/tutorials/flash/slideshow/index.php 
+-->
+<slideshow width="168" height="250" speed="2">
+<image url="images/archthumb1.jpg" />
+<image url="images/busthumb1.jpg" />
+<image url="images/busthumb2.jpg" />
+<image url="images/compthumb1.jpg" />
+<image url="images/compthumb2.jpg" />
+<image url="images/eduthumb1.jpg" />
+<image url="images/eduthumb2.jpg" />
+<image url="images/gamthumb1.jpg" />
+<image url="images/histhumb1.jpg" />
+<image url="images/histhumb2.jpg" />
+<image url="images/lawthumb1.jpg" />
+<image url="images/lawthumb2.jpg" />
+<image url="images/maththumb1.jpg" />
+<image url="images/maththumb2.jpg" />
+<image url="images/natthumb1.jpg" />
+<image url="images/natthumb2.jpg" />
+<image url="images/phithumb1.jpg" />
+<image url="images/phithumb2.jpg" />
+<image url="images/spothumb1.jpg" />
+<image url="images/spothumb2.jpg" />
+</slideshow>
