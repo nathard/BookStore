@@ -10,6 +10,6 @@ Features:
 
 AJAX Search functions  
 Flash XML Slideshow  
-Shopping Cart  
+Shopping Cart system  
 Captcha
 
